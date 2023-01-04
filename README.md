@@ -25,7 +25,7 @@ cd Unsupervised-Video-Summarization
 python app.py
 ```
 * Upload input video by clicking on 'choose file' button.
-* Select the reuired 'percentage duration' from the dropdown.
+* Select the required 'percentage duration' from the dropdown.
 * Click on upload.
 * After the generation, both original and summary video will be displayed side by side.
 
